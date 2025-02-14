@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "expo-monorepo",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "start": "expo start --dev-client"
+  }
+}

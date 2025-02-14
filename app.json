@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.wtflaika.expomonorepo"
+  },
+  "ios": {
+    "bundleIdentifier": "com.wtflaika.expomonorepo"
+  }
+}
